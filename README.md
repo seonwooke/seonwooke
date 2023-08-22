@@ -22,8 +22,8 @@
 <!-- <img src="https://img.shields.io/badge/unity-FCC624?style=flat-square&logo=unity&logoColor=black"></a>  -->
 <!-- <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp -->
 </p>
-
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonwooke&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonwooke&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-<!-- 
+ 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=seonwooke&bg_color=ffffff&color=000000&line=6495ED)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
